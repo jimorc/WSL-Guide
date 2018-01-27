@@ -11,6 +11,7 @@ https://www.reddit.com/r/bashonubuntuonwindows/)
 - [WSL on GitHub](https://github.com/Microsoft/WSL)
 - [WSL Questions on AskUbuntu](
 https://askubuntu.com/questions/tagged/wsl)
-- [Stack Exchange WSL Questions](https://stackexchange.com/search?q=wsl)
+- [superuser WSL Questions](
+https://superuser.com/questions/tagged/windows-subsystem-for-linux)
 - [Stack Overflow WSL Questions](
 https://stackoverflow.com/questions/tagged/windows-subsystem-for-linux)
