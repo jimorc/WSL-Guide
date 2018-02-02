@@ -1,6 +1,7 @@
 # Requirements
 The minimum requirements for using Windows Subsystem for Linux are:
-- Windows 10 Home, Professional or Enterprise (64-bit version only) or
+- Windows 10 Home, Professional or Enterprise (64-bit version only) with
+Fall Creators Update (October 2017) or later installed, or
 Windows Server 2016.
 - All Windows updates must be installed. If some updates are stalled or
 cannot be properly installed, you may not be able to enable WSL. A 
