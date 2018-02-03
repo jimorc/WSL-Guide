@@ -35,6 +35,7 @@ and select it:
 ![](images/windowsoptionalfeatures.png)
 
 Click *OK*. This displays:
+
 ![](images/windowsfeatureschanged.png)
 
 Click *Restart now* to restart your system.
