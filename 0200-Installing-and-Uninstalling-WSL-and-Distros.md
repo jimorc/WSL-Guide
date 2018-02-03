@@ -5,8 +5,8 @@ be useful to know how to uninstall Linux distributions and how to disable
 WSL. Those are the topics of this chapter.
 
 This chapter will specifically look at:
-- [Requirements for running WSL](0200-Requirements.md).
-- Enabling WSL.
+- [Requirements for running WSL](0210-Requirements.md).
+- [Enabling WSL](0220-Enabling-WSL.md).
 - Installing Linux distros on Windows 10. There are a number of
 officially supported distros, but it is possible to install a large
 number of other distros as well.
