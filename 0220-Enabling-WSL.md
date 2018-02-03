@@ -11,7 +11,7 @@ Here are the steps for enabling WSL using Powershell[1]:
 ```
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
-3. Rstart your computer when prompted.
+3. Restart your computer when prompted.
 
 If instead of prompting you to restart, it displays the following:
 ```
