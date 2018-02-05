@@ -1,8 +1,8 @@
 # Installing Distros on Windows 10
 There are currently three distros available through the Windows Store:
-- Ubuntu
-- OpenSUSE Leap, and
-- SLES.
+- Ubuntu (16.04 LTS)
+- OpenSUSE Leap 42, and
+- SUSE Linux Enterprise Server
 
 A number of unofficial distros are also available because of work done by
 a number of people. The instructions for installing these distros is 
