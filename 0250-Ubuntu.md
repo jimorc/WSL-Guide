@@ -13,7 +13,7 @@ will be asked to enter a default UNIX user name:
 
 You may enter any user name; it does not have to match
 your Windows user name. Every time you start Ubuntu in the
-future, it will start logged into that user account.
+future, it will start logged in as the user you just entered.
 
 After you press enter, you will be asked for a new
 password and then to repeat that password. This is the
