@@ -37,7 +37,7 @@ sudo apt autoremove
 
 The third command will remove any packages that are no
 longer referenced by other packages; for Unbuntu
-16.04 LTS. there is at least one such package.
+16.04 LTS, there is at least one such package.
 
 You can now use any bash or external command, including
 installing additional packages. See the
