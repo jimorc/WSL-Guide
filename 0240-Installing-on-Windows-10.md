@@ -2,7 +2,7 @@
 There are currently three distros available through the Windows Store:
 - Ubuntu (16.04 LTS)
 - OpenSUSE Leap 42, and
-- SUSE Linux Enterprise Server
+- SUSE Linux Enterprise Server 12
 
 A number of unofficial distros are also available because of work done by
 a number of people. The instructions for installing these distros is 
