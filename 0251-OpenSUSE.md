@@ -2,8 +2,10 @@
 To install the OpenSUSE Leap distro, open Windows Store and enter
 *openSUSE* in the search box. Select *OpenSUSE Leap 42* from the
 dropdown list. When the OpenSUSE app page is displayed,
-click on the *Install* button. Download will begin.
-When the download is complete, the *Install* button
+click on the *Get* button or the *Install* button. 
+Download will begin.
+When the download is complete, the *Get* button or the
+*Install* button
 changes to *Launch*. Either click on that button,
 or start *openSUSE Leap 42* from the Windows menu. OpenSUSE
 will start
@@ -23,7 +25,7 @@ account.
 
 You are then asked if you want to use the same password
 for the root user. If you answer *yes*, installation will 
-complete, and your are presented with
+complete, and you are presented with
 a bash command prompt:
 
 ![](images/opensuseinstallcomplete.png)

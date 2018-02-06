@@ -2,8 +2,10 @@
 To install the Ubuntu distro, open Windows Store and enter
 *Ubuntu* in the search box. Select *Ubuntu* from the
 dropdown list. When the Ubuntu app page is displayed,
-click on the *Install* button. Download will begin.
-When the download is complete, the *Install* button
+click on the *Get* button or the *Install* button. 
+Download will begin.
+When the download is complete, the *Get* button or the
+*Install* button
 changes to *Launch*. Either click on that button,
 or start *Ubuntu* from the Windows menu. Ubuntu will start
 installing the application. After a few minutes, you
@@ -20,7 +22,7 @@ password and then to repeat that password. This is the
 password that will correspond to your new Ubuntu user
 account.
 
-Installation will complete, and your are presented with
+Installation will complete, and you are presented with
 a bash command prompt:
 
 ![](images/ubuntuinstallcomplete.png)
