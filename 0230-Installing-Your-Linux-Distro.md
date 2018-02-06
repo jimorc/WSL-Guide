@@ -45,6 +45,6 @@ Specifically, the following topics are covered:
   - SLES
 
 ## Windows 10 and Windows Server
-LInux distros on top of WSL can be installed on both Windows 10 and
+Linux distros on top of WSL can be installed on both Windows 10 and
 Windows Server 2016 and later. The installation instructions are different
 between the two systems. Instructions for both will be provided.
