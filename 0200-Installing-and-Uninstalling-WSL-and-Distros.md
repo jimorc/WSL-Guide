@@ -18,4 +18,4 @@ number of other distros as well.
 - Uninstalling a Linux distro.
 - Disabling WSL.
 
-So let's begin with the requirements.
+So let's begin with the [requirements](0210-Requirements.md).
