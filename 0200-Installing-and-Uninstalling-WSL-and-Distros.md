@@ -12,7 +12,8 @@ This chapter will specifically look at:
 0240-Installing-on-Windows-10.md). There are a number of
 officially supported distros, but it is possible to install a large
 number of other distros as well.
-- Installing Linux distros on Windows Server.
+- [Installing Linux distros on Windows Server](
+0300-Installing-on-Windows-Server.md)
 - Upgrading to a newer distro release.
 - Uninstalling a Linux distro.
 - Disabling WSL.
