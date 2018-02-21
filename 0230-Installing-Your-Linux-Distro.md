@@ -36,9 +36,8 @@ Specifically, the following topics are covered:
   - Ubuntu
   - OpenSUSE
   - SLES
-  - Fedora
-  - Arch Linux
   - Others
+    - non-Windows Store Ubuntu Image
 - Installing Distros on Windows Server
   - Ubuntu
   - OpenSUSE
