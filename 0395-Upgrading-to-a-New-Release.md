@@ -3,7 +3,9 @@ OpenSUSE Leap 42 and SLES-12 are the latest releases
 of those distributions so there is nothing to upgrade
 to. The Ubuntu app from the Windows Store is version
 16.04 LTS. At the time I write this, version 17.10
-is the latest Ubuntu release. Is it possible to upgrade to that release?
+is the latest Ubuntu release.
+
+## Is it possible to upgrade?
 
 Before answering that question, it is important to ask yourself "Why
 would I want to upgrade?" See [Should You Use Ubuntu LTS or Upgrade to the
@@ -39,6 +41,11 @@ problems once the upgrade is completed.
 
 So, the answer to the question: "Is it possible to updrade to Ubuntu version 17.10 from
 version 16.04?" is No.
+
+## Is There An Alternative?
+
+Yes. It is not perfect, but you can install a cloud image of Ubuntu. See [Installing an
+Ubuntu Image](0310-Install-Ubuntu-Image.md) for information.
 
 
 ## References
