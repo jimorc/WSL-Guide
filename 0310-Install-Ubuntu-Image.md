@@ -80,7 +80,7 @@ need to perform the following:
 Each of these steps is covered in the subsections below.
 
 #### Install Updates and Setup Root and User
-1. At the bash prompt, executre the following commands:
+1. At the bash prompt, execute the following commands:
 
 ```
 apt update
