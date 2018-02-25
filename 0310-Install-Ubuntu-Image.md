@@ -102,7 +102,7 @@ be no errors reported when you execute the following:
 
 ```
 su <user>
-sudo man chmod
+sudo apt update
 ```
 
 ### Setup General Cloud Image
@@ -220,7 +220,7 @@ distro. To do this, exit back to the cmd or Powershell prompt
 and execute:
 
 ```
-Artful config --default-uid <user>
+Artful config --default-user <user>
 ```
 
 Now when you start *Artful* the next time, \<user\> is logged in
