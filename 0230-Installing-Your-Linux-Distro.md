@@ -38,6 +38,7 @@ Specifically, the following topics are covered:
   - SLES
   - Others
     - non-Windows Store Ubuntu Image
+    - ArchLinux
 - Installing Distros on Windows Server
   - Ubuntu
   - OpenSUSE
