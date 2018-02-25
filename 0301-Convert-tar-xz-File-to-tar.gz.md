@@ -15,7 +15,7 @@ sudo tar --directory=tmp -xf <tar.xf file to extract>
 cd tmp
 sudo tar -czf ../rootfs.tar.gz *
 cd ..
-sudo rm -r *
+sudo rm -r tmp
 ```
 
 You are now done with the WSL Linux distro, so you can close it.
