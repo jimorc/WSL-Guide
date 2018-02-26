@@ -39,6 +39,7 @@ Specifically, the following topics are covered:
   - Others
     - non-Windows Store Ubuntu Image
     - ArchLinux
+    - Alpine
 - Installing Distros on Windows Server
   - Ubuntu
   - OpenSUSE
