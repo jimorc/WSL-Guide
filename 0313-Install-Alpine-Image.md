@@ -7,7 +7,7 @@ WSL-DistroLauncher was discussed earlier in
 [Other Distros](0299-Other-Distros.md), so you may want
 to review that. yuk7 has also
 created a prebuilt compressed file for Alpine Linux called [Alpine.zip](
-https://github.com/yuk7/WSL-DistroLauncher/releases). Scroll down the page
+https://github.com/yuk7/AlpineWSL/releases/tag/18030200). Scroll down the page
 until you find the first Alpine.zip file and select that for download.
 This file contains both
 WSL-DistroLaucher and the rootfs files for Alpine Linux.
@@ -31,14 +31,12 @@ your Documents directory. Name the directory \"Alpine". For Windows
 10 FCU, this directory must be located on your system drive (typically
 C:).
 
-1. Go to the [WSL-DistroLauncher releases page](
-https://github.com/yuk7/WSL-DistroLauncher/releases). Scroll down
-until you find *Alpine.zip*. Select that file to download it. Expand
+1. Go to the [AlpineWSL releases page](
+https://github.com/yuk7/AlpineWSL/releases/tag/18030200). Scroll down
+until you find *Alpine.zip*. Select that file to download it. Extract
 the archive into your *Alpine* directory. It contains
   * Alpine.exe;
-  * licenses.txt;
   * rootfs.tar.gz; and,
-  * version.txt.
 
 ## Installing via Alpine.zip
 
@@ -113,22 +111,6 @@ and execute:
 ```
 Alpine config --default-user <user>
 ```
-If you get the following output:
-
-```
-ERROR: Invalid Argument.
-Failed to detect user.
-```
-then restart Alpine, and at the bash prompt, enter:
-```
-id -u <user>
-```
-This outputs a number (probably 1000).
-Exit back to the cmd or Powershell prompt and execute:
-```
-Alpine config --default-uid 1000
-```
-Replace 1000 above with the output from the <code>id</code> command.
 
 2. Close the cmd or Powershell, and restart it.
 Now when you start *Alpine*, \<user> is logged in
