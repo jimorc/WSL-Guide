@@ -26,7 +26,7 @@ make changes as appropriate.
 1. Start cmd.exe or Powershell.
 2. At the prompt, enter:
 
-  * cd <directory containing Arch Linux>
+  * cd \<directory containing Arch Linux>
   * Arch clean
 
 Your Arch Linux distro will be unregistered with WSL and uninstalled.
