@@ -79,7 +79,7 @@ passwd <user>
 1. At the bash prompt, execute the following command:
 
 ```
-packman -S sudo
+pacman -S sudo
 ```
 
 ##### Allow Members of sudo Group to Execute sudo
