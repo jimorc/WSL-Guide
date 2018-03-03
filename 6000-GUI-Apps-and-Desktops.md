@@ -35,3 +35,8 @@ the following:
 * Apps and/or a desktop loaded from the distro's repository.
 
 Each of these topics is discussed later in this chapter.
+
+## References
+1. The content of this page was copied, with modifications, from
+[Running Linux GUI Apps on Windows 10](
+https://jaipblog.wordpress.com/2018/01/21/running-linux-gui-apps-on-windows-10/).
