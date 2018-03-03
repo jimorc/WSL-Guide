@@ -61,8 +61,8 @@ Each of these steps is covered in the subsections below.
 1. At the bash prompt, execute the following commands:
 
 ```
-packman-key --init
-packman-key --populate archlinux
+pacman-key --init
+pacman-key --populate archlinux
 ```
 #### Install Updates and Setup Root and User
 1. At the bash prompt, execute the following commands:
