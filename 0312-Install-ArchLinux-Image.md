@@ -1,15 +1,15 @@
 # Installing an ArchLinux Image
 
 yuk7 has created a project on GitHub called 
-[WSL-DistroLauncher](https://github.com/yuk7/WSL-DistroLauncher).
+[wsldl](https://github.com/yuk7/wsldl).
 The general procedure for using
-WSL-DistroLauncher was discussed earlier in
+wsldl was discussed earlier in
 [Other Distros](0299-Other-Distros.md), so you may want
 to review that. yuk7 has also
 created a prebuilt compressed file called [Arch.zip](
 https://github.com/yuk7/ArchWSL/releases)
  that contains both
-WSL-DistroLaucher and the rootfs files for ArchLinux.
+wsldl and the rootfs files for ArchLinux.
 This file provides the easiest way to install and
 register ArchLinux on Windows Subsystem for Linux. You can,
 of course, also try an Arch cloud image. I will only discuss
