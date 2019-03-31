@@ -18,22 +18,22 @@ point so it is rather useless if you don't want to be stuck
 with a program that you cannot uninstall.
 
 The cleanest procedure that I have found uses
-WSL-DistroLauncher[1] by yuk7. That is the procedure
+wsldl[1] by yuk7. That is the procedure
 that I describe on this page and in the following
 pages that describe how to install non-Windows Store distros.
 
 ## Installing Non-Window Store Distros
-### Download WSL-DistroLauncher
+### Download wsldl
 
-The first step is to download WSL-DistroLauncher. WSL-DistroLauncher takes
+The first step is to download wsldl. wsldl takes
 a distro image file called rootsfs.tar.gz, installs the distro, and registers
 it with WSL. It also performs a number of other WSL related tasks. A full
 description of its capabilities is included in the [project's README file
-on GitHub](https://github.com/yuk7/WSL-DistroLauncher).
+on GitHub](https://github.com/yuk7/wsldl).
 
 In your Windows
 web browser, go to the 
-[release page](https://github.com/yuk7/WSL-DistroLauncher/releases)
+[release page](https://github.com/yuk7/wsldl/releases)
 and select Launcher.exe. This will start the download. I suggest saving
 the file in a location such as your Documents directory as you will
 need it for each distro that you install.
@@ -102,4 +102,4 @@ These steps are listed
 for each distro in a separate page.
 
 ## References
-[1] [WSL-DistroLauncher](https://github.com/yuk7/WSL-DistroLauncher)
+[1] [wsldl](https://github.com/yuk7/wsldl)
